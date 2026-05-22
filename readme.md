@@ -2,7 +2,7 @@
 
 ## Overview
 
-![SPI Block Diagram](docs/architecture.png)
+![SPI Block Diagram](architecture_v1.1.png)
 
 This project presents a highly robust, synthesizable RTL implementation of a complete **SPI (Serial Peripheral Interface) Core** protocol controller written in VHDL. 
 
