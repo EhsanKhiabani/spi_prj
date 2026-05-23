@@ -2,6 +2,8 @@
 
 ## Overview
 
+![SPI Block Diagram](docs/architecture.png)
+
 This project presents a highly robust, synthesizable RTL implementation of a complete **SPI (Serial Peripheral Interface) Core** protocol controller written in VHDL. 
 
 While initially engineered as an educational model to demonstrate computer architecture and advanced digital design methodologies, the core is built entirely to industrial hardware specifications. It includes comprehensive Clock Domain Crossing (CDC) synchronization, glitch-free strobe generation, and true tri-state high-impedance I/O buffers, making it fully ready for FPGA deployment or ASIC synthesis.

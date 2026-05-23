@@ -103,3 +103,4 @@ Thumbs.db
 
 # Documents
 *.pdf
+!docs/*.png
