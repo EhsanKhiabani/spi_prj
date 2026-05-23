@@ -1,0 +1,143 @@
+/media/saul/AS1000/workspace/hw-project/spi_prj/rtl/mux2x1.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/mux2x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mux2x1
+-- Compiling architecture rtl of mux2x1
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/trigger_toggle.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/trigger_toggle.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity trigger_toggle
+-- Compiling architecture behavioral of trigger_toggle
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/synchronizer.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/synchronizer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity synchronizer
+-- Compiling architecture rtl of synchronizer
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/tb/tb_spi_brg.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/tb/tb_spi_brg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_spi_brg
+-- Compiling architecture sim of tb_spi_brg
+-- Loading package NUMERIC_STD
+-- Loading entity spi_brg
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/tri_state.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/tri_state.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tri_state
+-- Compiling architecture rtl of tri_state
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/universal_counter.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/universal_counter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity universal_counter
+-- Compiling architecture behavioral of universal_counter
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/tb/tb_strobe_gen.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/tb/tb_strobe_gen.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_strobe_gen
+-- Compiling architecture sim of tb_strobe_gen
+-- Loading package NUMERIC_STD
+-- Loading entity spi_brg
+-- Loading entity master_strobe_gen
+-- Loading entity slave_strobe_gen
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/rising_edge_detector.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/rising_edge_detector.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity rising_edge_detector
+-- Compiling architecture rtl of rising_edge_detector
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/slave_strobe_gen.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/slave_strobe_gen.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity slave_strobe_gen
+-- Compiling architecture behavioral of slave_strobe_gen
+-- Loading entity synchronizer
+-- Loading entity falling_edge_detector
+-- Loading entity rising_edge_detector
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/sipo.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/sipo.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sipo
+-- Compiling architecture behavioral of sipo
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/sync_comparator.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/sync_comparator.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity sync_comparator
+-- Compiling architecture behavioral of sync_comparator
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/spi_brg.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/spi_brg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity spi_brg
+-- Compiling architecture structural of spi_brg
+-- Loading entity universal_counter
+-- Loading entity trigger_toggle
+-- Loading entity reg_nbit
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/slave_mode_detector.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/slave_mode_detector.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity slave_mode_detector
+-- Compiling architecture rtl of slave_mode_detector
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/reg_nbit.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/reg_nbit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity reg_nbit
+-- Compiling architecture rtl of reg_nbit
+
+} {} {}} /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/falling_edge_detector.vhd {1 {vcom -work work -2002 -explicit -stats=none /media/saul/AS1000/workspace/hw-project/spi_prj/rtl/falling_edge_detector.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity falling_edge_detector
+-- Compiling architecture rtl of falling_edge_detector
+
+} {} {}}

@@ -1,0 +1,105 @@
+############################
+# HDL SOURCE FILES (KEEP)
+############################
+!*.vhd
+!*.vhdl
+!*.sv
+!*.svh
+!*.vh
+!*.do
+!*.md
+
+############################
+# SIMULATION (ModelSim / Questa)
+############################
+work/
+modelsim.ini
+transcript
+vsim.wlf
+*.wlf
+*.log
+
+############################
+# INTEL FPGA (Quartus)
+############################
+db/
+incremental_db/
+simulation/
+output_files/
+*.qpf
+*.qsf.autosave
+*.qws
+*.cmp
+*.qdf
+*.pin
+*.sof
+*.pof
+*.jdi
+*.rpt
+*.summary
+*.smsg
+*.chg
+
+############################
+# AMD / XILINX (Vivado)
+############################
+.vivado/
+Xil/
+*.jou
+*.str
+*.dcp
+*.hw
+*.hwdef
+*.runs/
+*.cache/
+*.sim/
+*.srcs/
+*.ip_user_files/
+
+############################
+# SYNTHESIS / IMPLEMENTATION
+############################
+*.edf
+*.edif
+*.ngc
+*.ngd
+*.bit
+*.bin
+*.ltx
+
+############################
+# OBSIDIAN (Markdown Notes)
+############################
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/graph.json
+
+############################
+# OFFICE TEMP FILES
+############################
+~$*.docx
+~$*.xlsx
+
+############################
+# OS / EDITOR
+############################
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+.vscode/
+.idea/
+
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.bmp
+*.gif
+
+# Documents
+*.pdf
